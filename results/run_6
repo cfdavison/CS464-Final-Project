@@ -1,0 +1,216 @@
+Model Conv2D->MaxPool2d->Conv2D->MaxPool2d->Conv2d
+	Image Dimensions: 128
+	Epochs: 4
+	Batch Size: 4
+	Training Accuracy: 78.81%
+	Test Accuracy: 16.84%
+	Epoch Times: 167.16514587402344 164.7106921672821 174.2063009738922 172.4217653274536
+
+Model Conv2D->MaxPool2d->Conv2D->MaxPool2d->Conv2d
+	Image Dimensions: 128
+	Epochs: 5
+	Batch Size: 4
+	Training Accuracy: 94.42%
+	Test Accuracy: 20.06%
+	Epoch Times: 181.80779671669006 165.59172224998474 166.46526980400085 165.65502858161926 172.2815887928009
+
+Model Conv2D->MaxPool2d->Conv2D->MaxPool2d->Conv2d
+	Image Dimensions: 128
+	Epochs: 6
+	Batch Size: 4
+	Training Accuracy: 95.80%
+	Test Accuracy: 21.41%
+	Epoch Times: 179.39341163635254 160.784077167511 163.61812567710876 166.7722418308258 182.47814774513245 164.893479347229
+
+Model Conv2D->MaxPool2d->Conv2D->MaxPool2d->Conv2d
+	Image Dimensions: 128
+	Epochs: 4
+	Batch Size: 8
+	Training Accuracy: 75.34%
+	Test Accuracy: 22.08%
+	Epoch Times: 173.07157039642334 156.71734476089478 157.03004479408264 154.64959120750427
+
+Model Conv2D->MaxPool2d->Conv2D->MaxPool2d->Conv2d
+	Image Dimensions: 128
+	Epochs: 5
+	Batch Size: 8
+	Training Accuracy: 89.90%
+	Test Accuracy: 15.99%
+	Epoch Times: 158.9302031993866 154.82318592071533 153.56369018554688 146.4682743549347 148.52299737930298
+
+Model Conv2D->MaxPool2d->Conv2D->MaxPool2d->Conv2d
+	Image Dimensions: 128
+	Epochs: 6
+	Batch Size: 8
+	Training Accuracy: 95.55%
+	Test Accuracy: 18.28%
+	Epoch Times: 143.9851586818695 151.67145538330078 155.81496691703796 147.3105661869049 144.71913981437683 146.09613466262817
+
+Model Conv2D->MaxPool2d->Conv2D->MaxPool2d->Conv2d
+	Image Dimensions: 128
+	Epochs: 4
+	Batch Size: 16
+	Training Accuracy: 81.79%
+	Test Accuracy: 23.07%
+	Epoch Times: 136.80782508850098 135.2081000804901 133.1216938495636 135.27745628356934
+
+Model Conv2D->MaxPool2d->Conv2D->MaxPool2d->Conv2d
+	Image Dimensions: 128
+	Epochs: 5
+	Batch Size: 16
+	Training Accuracy: 90.68%
+	Test Accuracy: 18.96%
+	Epoch Times: 136.8738980293274 135.23175263404846 137.55053758621216 135.57929396629333 137.71894550323486
+
+Model Conv2D->MaxPool2d->Conv2D->MaxPool2d->Conv2d
+	Image Dimensions: 128
+	Epochs: 6
+	Batch Size: 16
+	Training Accuracy: 96.48%
+	Test Accuracy: 20.10%
+	Epoch Times: 134.62933993339539 134.95257306098938 135.0443046092987 138.9096965789795 134.92888355255127 136.03582072257996
+
+Model Conv2D->MaxPool2d->Conv2D->MaxPool2d->Conv2d
+	Image Dimensions: 224
+	Epochs: 4
+	Batch Size: 4
+	Training Accuracy: 92.40%
+	Test Accuracy: 18.50%
+	Epoch Times: 432.25921511650085 432.4078440666199 432.0724620819092 433.0551919937134
+
+Model Conv2D->MaxPool2d->Conv2D->MaxPool2d->Conv2d
+	Image Dimensions: 224
+	Epochs: 5
+	Batch Size: 4
+	Training Accuracy: 98.59%
+	Test Accuracy: 16.48%
+	Epoch Times: 442.4993505477905 435.2099199295044 435.9028115272522 434.41204142570496 433.9971890449524
+
+Model Conv2D->MaxPool2d->Conv2D->MaxPool2d->Conv2d
+	Image Dimensions: 224
+	Epochs: 6
+	Batch Size: 4
+	Training Accuracy: 98.57%
+	Test Accuracy: 17.10%
+	Epoch Times: 439.820205450058 439.9976587295532 438.175888299942 435.0429799556732 436.37384057044983 436.4431891441345
+
+Model Conv2D->MaxPool2d->Conv2D->MaxPool2d->Conv2d
+	Image Dimensions: 224
+	Epochs: 4
+	Batch Size: 8
+	Training Accuracy: 93.45%
+	Test Accuracy: 21.56%
+	Epoch Times: 397.85705399513245 385.7481367588043 387.2376546859741 390.0667827129364
+
+Model Conv2D->MaxPool2d->Conv2D->MaxPool2d->Conv2d
+	Image Dimensions: 224
+	Epochs: 5
+	Batch Size: 8
+	Training Accuracy: 97.48%
+	Test Accuracy: 19.11%
+	Epoch Times: 391.52605533599854 384.70434188842773 389.1089355945587 386.2568576335907 390.6648724079132
+
+Model Conv2D->MaxPool2d->Conv2D->MaxPool2d->Conv2d
+	Image Dimensions: 224
+	Epochs: 6
+	Batch Size: 8
+	Training Accuracy: 99.62%
+	Test Accuracy: 20.21%
+	Epoch Times: 393.5154824256897 387.5734775066376 387.77591156959534 389.8694312572479 387.2244210243225 392.0861611366272
+
+Model Conv2D->MaxPool2d->Conv2D->MaxPool2d->Conv2d
+	Image Dimensions: 224
+	Epochs: 4
+	Batch Size: 16
+	Training Accuracy: 89.95%
+	Test Accuracy: 16.77%
+	Epoch Times: 375.05996465682983 372.493332862854 401.62994956970215 411.42890071868896
+
+Model Conv2D->MaxPool2d->Conv2D->MaxPool2d->Conv2d
+	Image Dimensions: 224
+	Epochs: 5
+	Batch Size: 16
+	Training Accuracy: 97.84%
+	Test Accuracy: 21.56%
+	Epoch Times: 394.5107271671295 380.6540002822876 381.12718534469604 382.11049342155457 380.5703799724579
+
+Model Conv2D->MaxPool2d->Conv2D->MaxPool2d->Conv2d
+	Image Dimensions: 224
+	Epochs: 6
+	Batch Size: 16
+	Training Accuracy: 99.17%
+	Test Accuracy: 17.19%
+	Epoch Times: 385.61703729629517 377.95513463020325 379.4063651561737 379.86572313308716 380.32229709625244 379.40957832336426
+
+Model Conv2D->MaxPool2d->Conv2D->MaxPool2d->Conv2d
+	Image Dimensions: 256
+	Epochs: 4
+	Batch Size: 4
+	Training Accuracy: 98.40%
+	Test Accuracy: 16.11%
+	Epoch Times: 565.6628973484039 557.7555930614471 556.4281449317932 558.6568546295166
+
+Model Conv2D->MaxPool2d->Conv2D->MaxPool2d->Conv2d
+	Image Dimensions: 256
+	Epochs: 5
+	Batch Size: 4
+	Training Accuracy: 98.26%
+	Test Accuracy: 20.11%
+	Epoch Times: 562.022965669632 557.1349420547485 557.2641417980194 557.869086265564 558.396550655365
+
+Model Conv2D->MaxPool2d->Conv2D->MaxPool2d->Conv2d
+	Image Dimensions: 256
+	Epochs: 6
+	Batch Size: 4
+	Training Accuracy: 97.74%
+	Test Accuracy: 19.23%
+	Epoch Times: 562.4242167472839 556.09370470047 555.9832096099854 554.6326477527618 557.8206744194031 557.3837127685547
+
+Model Conv2D->MaxPool2d->Conv2D->MaxPool2d->Conv2d
+	Image Dimensions: 256
+	Epochs: 4
+	Batch Size: 8
+	Training Accuracy: 91.14%
+	Test Accuracy: 18.02%
+	Epoch Times: 517.9157707691193 515.5806376934052 515.3692011833191 515.5283012390137
+
+Model Conv2D->MaxPool2d->Conv2D->MaxPool2d->Conv2d
+	Image Dimensions: 256
+	Epochs: 5
+	Batch Size: 8
+	Training Accuracy: 98.69%
+	Test Accuracy: 20.05%
+	Epoch Times: 521.9908649921417 515.8716049194336 515.7210161685944 517.7342183589935 516.7978401184082
+
+Model Conv2D->MaxPool2d->Conv2D->MaxPool2d->Conv2d
+	Image Dimensions: 256
+	Epochs: 6
+	Batch Size: 8
+	Training Accuracy: 99.26%
+	Test Accuracy: 20.26%
+	Epoch Times: 519.9435498714447 515.5091500282288 515.7678835391998 516.9341535568237 515.903397321701 517.9870085716248
+
+Model Conv2D->MaxPool2d->Conv2D->MaxPool2d->Conv2d
+	Image Dimensions: 256
+	Epochs: 4
+	Batch Size: 16
+	Training Accuracy: 92.51%
+	Test Accuracy: 21.35%
+	Epoch Times: 500.95362162590027 499.7775709629059 498.0959417819977 496.5827796459198
+
+Model Conv2D->MaxPool2d->Conv2D->MaxPool2d->Conv2d
+	Image Dimensions: 256
+	Epochs: 5
+	Batch Size: 16
+	Training Accuracy: 97.74%
+	Test Accuracy: 18.80%
+	Epoch Times: 501.927570104599 496.26248836517334 497.5044059753418 498.088397026062 498.34671664237976
+
+Model Conv2D->MaxPool2d->Conv2D->MaxPool2d->Conv2d
+	Image Dimensions: 256
+	Epochs: 6
+	Batch Size: 16
+	Training Accuracy: 99.21%
+	Test Accuracy: 18.33%
+	Epoch Times: 502.9568383693695 497.8870761394501 497.1640486717224 494.4971082210541 495.708966255188 496.8586301803589
+
